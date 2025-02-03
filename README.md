@@ -4,7 +4,7 @@ A Software Engineer driven by a deep passion for innovation and a relentless pur
 
 ---
 
-## 👩‍💻 About me
+## 👩‍💻 About Me
 
 - 🤖 I’m currently working on Automation, GenAI Projects, leveraging cutting-edge AI and LLM technologies to build intelligent systems.
 - 📱 I’m currently learning React Native Expo to create dynamic and responsive mobile applications.
@@ -29,17 +29,19 @@ I'm always excited to connect with fellow engineers, discuss new ideas, and expl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=sundas-arooj&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundas-arooj&theme=radical" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundas-arooj&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" width="350px"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sundas-arooj&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="350px" height="300px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundas-arooj&theme=radical" width="350px" height="300px" />
+  <!-- Top Languages Card (Showing wrong stats)-->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundas-arooj&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" width="350px" height="250px"/> -->
+</div>
 
 ---
 
-<h3 align="left"> 🤝 Connect with me:</h3>
+## 🤝 Connect With Me
 <p align="left">
   <a href="https://x.com/isundasarooj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isundasarooj" height="30" width="40" />
@@ -52,5 +54,4 @@ I'm always excited to connect with fellow engineers, discuss new ideas, and expl
   </a>
 </p>
 
----
 
