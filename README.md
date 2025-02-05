@@ -1,4 +1,10 @@
-# Hi, I'm Sundas Arooj 👋
+<h1 align="center" style="
+  padding-bottom: 0.3em; 
+  font-size: 2em; 
+  border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted)); 
+  margin-bottom: 1rem;">
+  Hi, I'm Sundas Arooj 👋
+</h1>
 
 A Software Engineer driven by a deep passion for innovation and a relentless pursuit of knowledge. Constantly exploring new technologies, I thrive on pushing boundaries and solving complex problems to create intelligent systems and impactful solutions.
 
@@ -23,9 +29,9 @@ I'm always excited to connect with fellow engineers, discuss new ideas, and expl
 
 ---
 
-## 🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+## 🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="18px" />
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,bootstrap,css,react,redux,sass,tailwind,materialui,nextjs,angular,nodejs,express,graphql,fastapi,elasticsearch,mongodb,mysql,postgres,sequelize,redis,sqlite,firebase,selenium,docker,kubernetes,aws,vercel,bash,git,github,heroku,linux,postman,vscode,npm,sentry,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,bootstrap,css,sass,tailwind,materialui,react,redux,nextjs,angular,nodejs,express,graphql,fastapi,elasticsearch,mongodb,mysql,postgres,sequelize,redis,sqlite,bash,git,github,firebase,docker,aws,vercel,heroku,linux,vscode,npm,postman,sentry,idea&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -33,10 +39,10 @@ I'm always excited to connect with fellow engineers, discuss new ideas, and expl
 
 <!-- GitHub Stats Card -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sundas-arooj&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="350px" height="300px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundas-arooj&theme=radical" width="350px" height="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sundas-arooj&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="48%" height="auto" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundas-arooj&theme=radical" width="48%" height="auto" />
   <!-- Top Languages Card (Showing wrong stats)-->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundas-arooj&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" width="350px" height="250px"/> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundas-arooj&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" width="50%" height="auto"/> -->
 </div>
 
 ---
